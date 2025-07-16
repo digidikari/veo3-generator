@@ -7,7 +7,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://<username>.github.io/veo3-generator",
+  "homepage": "https://digidikari.github.io/veo3-generator",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
